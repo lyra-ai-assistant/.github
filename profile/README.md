@@ -1,6 +1,6 @@
 <div align="center">
 
-[Lyra Roadmap](./.doc/assets/Lyra%20Roadmap.png)
+(Lyra Roadmap)[https://github.com/lyra-ai-assistant/.github/blob/main/profile/.doc/assets/Lyra%20Roadmap.png?raw=true]
 
 </div>
 
