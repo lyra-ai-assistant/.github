@@ -12,3 +12,8 @@ Lyra acts as a guiding star, providing intuitive assistance and streamlining com
 - Update [server](https://github.com/lyra-ai-assistant/server) and add context from OS as needed
 - Fix and update [electron-client](https://github.com/lyra-ai-assistant/electron-client) package
 - Make a pipeline for datasets extraction under [scrapper repository](https://github.com/lyra-ai-assistant/scraper)
+
+### Social Media
+
+- [Check our gravatar](https://gravatar.com/personathoughtfullyb5b550fb99)
+
