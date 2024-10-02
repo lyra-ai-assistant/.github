@@ -17,3 +17,8 @@ Lyra acts as a guiding star, providing intuitive assistance and streamlining com
 
 - [Check our gravatar](https://gravatar.com/personathoughtfullyb5b550fb99)
 
+### Interviews
+
+- [MinTic - Ingenieros en Pereira desarrollan asistente de IA para programar código abierto](https://www.youtube.com/watch?v=KLSnCxgulKw&list=LL&index=2)
+- [MinTic - Dos ingenieros en Pereira crean herramienta de IA para programar en código abierto – Ep.32 2024](https://www.youtube.com/watch?v=eayh7u85Jhk)
+
