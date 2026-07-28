@@ -8,10 +8,10 @@ Lyra is a guiding star, providing intuitive assistance and streamlining common t
 
 ### TO DO
 
-- Move and split files from [previous repository](https://github.com/AndresMpa/lyra) into their respective repository
-- Update [server](https://github.com/lyra-ai-assistant/server) and add context from OS as needed
-- Fix and update [electron-client](https://github.com/lyra-ai-assistant/electron-client) package
-- Make a pipeline for dataset extraction under [scrapper repository](https://github.com/lyra-ai-assistant/scraper)
+- Move and split files from [previous repository](https://github.com/AndresMpa/lyra) into their respective repository ✔️
+- Update [server](https://github.com/lyra-ai-assistant/server) and add context from OS as needed ✔️
+- Fix and update [electron-client](https://github.com/lyra-ai-assistant/electron-client) package ✔️
+- Make a pipeline for dataset extraction under [scrapper repository](https://github.com/lyra-ai-assistant/scraper) 🪓
 
 ### Social Media
 
